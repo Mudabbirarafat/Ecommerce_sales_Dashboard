@@ -1,0 +1,141 @@
+product_id,category,sub_category,product_name
+1,Technology,Phones,Phones Product 1
+2,Technology,Phones,Phones Product 2
+3,Technology,Phones,Phones Product 3
+4,Technology,Phones,Phones Product 4
+5,Technology,Phones,Phones Product 5
+6,Technology,Phones,Phones Product 6
+7,Technology,Phones,Phones Product 7
+8,Technology,Phones,Phones Product 8
+9,Technology,Phones,Phones Product 9
+10,Technology,Phones,Phones Product 10
+11,Technology,Accessories,Accessories Product 1
+12,Technology,Accessories,Accessories Product 2
+13,Technology,Accessories,Accessories Product 3
+14,Technology,Accessories,Accessories Product 4
+15,Technology,Accessories,Accessories Product 5
+16,Technology,Accessories,Accessories Product 6
+17,Technology,Accessories,Accessories Product 7
+18,Technology,Accessories,Accessories Product 8
+19,Technology,Accessories,Accessories Product 9
+20,Technology,Accessories,Accessories Product 10
+21,Technology,Copiers,Copiers Product 1
+22,Technology,Copiers,Copiers Product 2
+23,Technology,Copiers,Copiers Product 3
+24,Technology,Copiers,Copiers Product 4
+25,Technology,Copiers,Copiers Product 5
+26,Technology,Copiers,Copiers Product 6
+27,Technology,Copiers,Copiers Product 7
+28,Technology,Copiers,Copiers Product 8
+29,Technology,Copiers,Copiers Product 9
+30,Technology,Copiers,Copiers Product 10
+31,Technology,Machines,Machines Product 1
+32,Technology,Machines,Machines Product 2
+33,Technology,Machines,Machines Product 3
+34,Technology,Machines,Machines Product 4
+35,Technology,Machines,Machines Product 5
+36,Technology,Machines,Machines Product 6
+37,Technology,Machines,Machines Product 7
+38,Technology,Machines,Machines Product 8
+39,Technology,Machines,Machines Product 9
+40,Technology,Machines,Machines Product 10
+41,Furniture,Chairs,Chairs Product 1
+42,Furniture,Chairs,Chairs Product 2
+43,Furniture,Chairs,Chairs Product 3
+44,Furniture,Chairs,Chairs Product 4
+45,Furniture,Chairs,Chairs Product 5
+46,Furniture,Chairs,Chairs Product 6
+47,Furniture,Chairs,Chairs Product 7
+48,Furniture,Chairs,Chairs Product 8
+49,Furniture,Chairs,Chairs Product 9
+50,Furniture,Chairs,Chairs Product 10
+51,Furniture,Tables,Tables Product 1
+52,Furniture,Tables,Tables Product 2
+53,Furniture,Tables,Tables Product 3
+54,Furniture,Tables,Tables Product 4
+55,Furniture,Tables,Tables Product 5
+56,Furniture,Tables,Tables Product 6
+57,Furniture,Tables,Tables Product 7
+58,Furniture,Tables,Tables Product 8
+59,Furniture,Tables,Tables Product 9
+60,Furniture,Tables,Tables Product 10
+61,Furniture,Bookcases,Bookcases Product 1
+62,Furniture,Bookcases,Bookcases Product 2
+63,Furniture,Bookcases,Bookcases Product 3
+64,Furniture,Bookcases,Bookcases Product 4
+65,Furniture,Bookcases,Bookcases Product 5
+66,Furniture,Bookcases,Bookcases Product 6
+67,Furniture,Bookcases,Bookcases Product 7
+68,Furniture,Bookcases,Bookcases Product 8
+69,Furniture,Bookcases,Bookcases Product 9
+70,Furniture,Bookcases,Bookcases Product 10
+71,Furniture,Furnishings,Furnishings Product 1
+72,Furniture,Furnishings,Furnishings Product 2
+73,Furniture,Furnishings,Furnishings Product 3
+74,Furniture,Furnishings,Furnishings Product 4
+75,Furniture,Furnishings,Furnishings Product 5
+76,Furniture,Furnishings,Furnishings Product 6
+77,Furniture,Furnishings,Furnishings Product 7
+78,Furniture,Furnishings,Furnishings Product 8
+79,Furniture,Furnishings,Furnishings Product 9
+80,Furniture,Furnishings,Furnishings Product 10
+81,Office Supplies,Binders,Binders Product 1
+82,Office Supplies,Binders,Binders Product 2
+83,Office Supplies,Binders,Binders Product 3
+84,Office Supplies,Binders,Binders Product 4
+85,Office Supplies,Binders,Binders Product 5
+86,Office Supplies,Binders,Binders Product 6
+87,Office Supplies,Binders,Binders Product 7
+88,Office Supplies,Binders,Binders Product 8
+89,Office Supplies,Binders,Binders Product 9
+90,Office Supplies,Binders,Binders Product 10
+91,Office Supplies,Paper,Paper Product 1
+92,Office Supplies,Paper,Paper Product 2
+93,Office Supplies,Paper,Paper Product 3
+94,Office Supplies,Paper,Paper Product 4
+95,Office Supplies,Paper,Paper Product 5
+96,Office Supplies,Paper,Paper Product 6
+97,Office Supplies,Paper,Paper Product 7
+98,Office Supplies,Paper,Paper Product 8
+99,Office Supplies,Paper,Paper Product 9
+100,Office Supplies,Paper,Paper Product 10
+101,Office Supplies,Storage,Storage Product 1
+102,Office Supplies,Storage,Storage Product 2
+103,Office Supplies,Storage,Storage Product 3
+104,Office Supplies,Storage,Storage Product 4
+105,Office Supplies,Storage,Storage Product 5
+106,Office Supplies,Storage,Storage Product 6
+107,Office Supplies,Storage,Storage Product 7
+108,Office Supplies,Storage,Storage Product 8
+109,Office Supplies,Storage,Storage Product 9
+110,Office Supplies,Storage,Storage Product 10
+111,Office Supplies,Appliances,Appliances Product 1
+112,Office Supplies,Appliances,Appliances Product 2
+113,Office Supplies,Appliances,Appliances Product 3
+114,Office Supplies,Appliances,Appliances Product 4
+115,Office Supplies,Appliances,Appliances Product 5
+116,Office Supplies,Appliances,Appliances Product 6
+117,Office Supplies,Appliances,Appliances Product 7
+118,Office Supplies,Appliances,Appliances Product 8
+119,Office Supplies,Appliances,Appliances Product 9
+120,Office Supplies,Appliances,Appliances Product 10
+121,Office Supplies,Art,Art Product 1
+122,Office Supplies,Art,Art Product 2
+123,Office Supplies,Art,Art Product 3
+124,Office Supplies,Art,Art Product 4
+125,Office Supplies,Art,Art Product 5
+126,Office Supplies,Art,Art Product 6
+127,Office Supplies,Art,Art Product 7
+128,Office Supplies,Art,Art Product 8
+129,Office Supplies,Art,Art Product 9
+130,Office Supplies,Art,Art Product 10
+131,Office Supplies,Envelopes,Envelopes Product 1
+132,Office Supplies,Envelopes,Envelopes Product 2
+133,Office Supplies,Envelopes,Envelopes Product 3
+134,Office Supplies,Envelopes,Envelopes Product 4
+135,Office Supplies,Envelopes,Envelopes Product 5
+136,Office Supplies,Envelopes,Envelopes Product 6
+137,Office Supplies,Envelopes,Envelopes Product 7
+138,Office Supplies,Envelopes,Envelopes Product 8
+139,Office Supplies,Envelopes,Envelopes Product 9
+140,Office Supplies,Envelopes,Envelopes Product 10

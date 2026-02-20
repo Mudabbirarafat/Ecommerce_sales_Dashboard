@@ -1,0 +1,1001 @@
+customer_id,customer_name,segment
+1,Customer 0001,Corporate
+2,Customer 0002,Consumer
+3,Customer 0003,Corporate
+4,Customer 0004,Home Office
+5,Customer 0005,Consumer
+6,Customer 0006,Consumer
+7,Customer 0007,Home Office
+8,Customer 0008,Consumer
+9,Customer 0009,Corporate
+10,Customer 0010,Home Office
+11,Customer 0011,Consumer
+12,Customer 0012,Home Office
+13,Customer 0013,Consumer
+14,Customer 0014,Consumer
+15,Customer 0015,Consumer
+16,Customer 0016,Corporate
+17,Customer 0017,Corporate
+18,Customer 0018,Consumer
+19,Customer 0019,Consumer
+20,Customer 0020,Consumer
+21,Customer 0021,Home Office
+22,Customer 0022,Corporate
+23,Customer 0023,Consumer
+24,Customer 0024,Home Office
+25,Customer 0025,Consumer
+26,Customer 0026,Consumer
+27,Customer 0027,Home Office
+28,Customer 0028,Home Office
+29,Customer 0029,Home Office
+30,Customer 0030,Consumer
+31,Customer 0031,Home Office
+32,Customer 0032,Home Office
+33,Customer 0033,Corporate
+34,Customer 0034,Consumer
+35,Customer 0035,Consumer
+36,Customer 0036,Consumer
+37,Customer 0037,Home Office
+38,Customer 0038,Consumer
+39,Customer 0039,Corporate
+40,Customer 0040,Corporate
+41,Customer 0041,Consumer
+42,Customer 0042,Home Office
+43,Customer 0043,Consumer
+44,Customer 0044,Home Office
+45,Customer 0045,Corporate
+46,Customer 0046,Home Office
+47,Customer 0047,Home Office
+48,Customer 0048,Consumer
+49,Customer 0049,Consumer
+50,Customer 0050,Home Office
+51,Customer 0051,Home Office
+52,Customer 0052,Home Office
+53,Customer 0053,Consumer
+54,Customer 0054,Corporate
+55,Customer 0055,Consumer
+56,Customer 0056,Home Office
+57,Customer 0057,Home Office
+58,Customer 0058,Consumer
+59,Customer 0059,Home Office
+60,Customer 0060,Consumer
+61,Customer 0061,Home Office
+62,Customer 0062,Consumer
+63,Customer 0063,Corporate
+64,Customer 0064,Home Office
+65,Customer 0065,Home Office
+66,Customer 0066,Corporate
+67,Customer 0067,Corporate
+68,Customer 0068,Corporate
+69,Customer 0069,Home Office
+70,Customer 0070,Corporate
+71,Customer 0071,Corporate
+72,Customer 0072,Corporate
+73,Customer 0073,Consumer
+74,Customer 0074,Consumer
+75,Customer 0075,Home Office
+76,Customer 0076,Consumer
+77,Customer 0077,Consumer
+78,Customer 0078,Home Office
+79,Customer 0079,Corporate
+80,Customer 0080,Home Office
+81,Customer 0081,Corporate
+82,Customer 0082,Corporate
+83,Customer 0083,Home Office
+84,Customer 0084,Corporate
+85,Customer 0085,Corporate
+86,Customer 0086,Home Office
+87,Customer 0087,Consumer
+88,Customer 0088,Consumer
+89,Customer 0089,Home Office
+90,Customer 0090,Corporate
+91,Customer 0091,Consumer
+92,Customer 0092,Corporate
+93,Customer 0093,Consumer
+94,Customer 0094,Corporate
+95,Customer 0095,Corporate
+96,Customer 0096,Consumer
+97,Customer 0097,Home Office
+98,Customer 0098,Consumer
+99,Customer 0099,Home Office
+100,Customer 0100,Home Office
+101,Customer 0101,Corporate
+102,Customer 0102,Corporate
+103,Customer 0103,Home Office
+104,Customer 0104,Corporate
+105,Customer 0105,Home Office
+106,Customer 0106,Corporate
+107,Customer 0107,Home Office
+108,Customer 0108,Corporate
+109,Customer 0109,Consumer
+110,Customer 0110,Consumer
+111,Customer 0111,Corporate
+112,Customer 0112,Corporate
+113,Customer 0113,Home Office
+114,Customer 0114,Home Office
+115,Customer 0115,Consumer
+116,Customer 0116,Consumer
+117,Customer 0117,Home Office
+118,Customer 0118,Home Office
+119,Customer 0119,Corporate
+120,Customer 0120,Home Office
+121,Customer 0121,Home Office
+122,Customer 0122,Home Office
+123,Customer 0123,Corporate
+124,Customer 0124,Corporate
+125,Customer 0125,Home Office
+126,Customer 0126,Corporate
+127,Customer 0127,Home Office
+128,Customer 0128,Corporate
+129,Customer 0129,Consumer
+130,Customer 0130,Corporate
+131,Customer 0131,Corporate
+132,Customer 0132,Consumer
+133,Customer 0133,Home Office
+134,Customer 0134,Consumer
+135,Customer 0135,Corporate
+136,Customer 0136,Consumer
+137,Customer 0137,Consumer
+138,Customer 0138,Corporate
+139,Customer 0139,Consumer
+140,Customer 0140,Home Office
+141,Customer 0141,Consumer
+142,Customer 0142,Corporate
+143,Customer 0143,Corporate
+144,Customer 0144,Corporate
+145,Customer 0145,Consumer
+146,Customer 0146,Consumer
+147,Customer 0147,Corporate
+148,Customer 0148,Corporate
+149,Customer 0149,Home Office
+150,Customer 0150,Corporate
+151,Customer 0151,Consumer
+152,Customer 0152,Corporate
+153,Customer 0153,Home Office
+154,Customer 0154,Corporate
+155,Customer 0155,Home Office
+156,Customer 0156,Corporate
+157,Customer 0157,Corporate
+158,Customer 0158,Home Office
+159,Customer 0159,Corporate
+160,Customer 0160,Consumer
+161,Customer 0161,Consumer
+162,Customer 0162,Consumer
+163,Customer 0163,Consumer
+164,Customer 0164,Consumer
+165,Customer 0165,Consumer
+166,Customer 0166,Home Office
+167,Customer 0167,Consumer
+168,Customer 0168,Consumer
+169,Customer 0169,Corporate
+170,Customer 0170,Home Office
+171,Customer 0171,Consumer
+172,Customer 0172,Corporate
+173,Customer 0173,Corporate
+174,Customer 0174,Consumer
+175,Customer 0175,Consumer
+176,Customer 0176,Corporate
+177,Customer 0177,Home Office
+178,Customer 0178,Corporate
+179,Customer 0179,Home Office
+180,Customer 0180,Home Office
+181,Customer 0181,Corporate
+182,Customer 0182,Consumer
+183,Customer 0183,Home Office
+184,Customer 0184,Home Office
+185,Customer 0185,Home Office
+186,Customer 0186,Home Office
+187,Customer 0187,Home Office
+188,Customer 0188,Home Office
+189,Customer 0189,Consumer
+190,Customer 0190,Corporate
+191,Customer 0191,Home Office
+192,Customer 0192,Home Office
+193,Customer 0193,Corporate
+194,Customer 0194,Corporate
+195,Customer 0195,Corporate
+196,Customer 0196,Corporate
+197,Customer 0197,Consumer
+198,Customer 0198,Corporate
+199,Customer 0199,Home Office
+200,Customer 0200,Corporate
+201,Customer 0201,Consumer
+202,Customer 0202,Consumer
+203,Customer 0203,Consumer
+204,Customer 0204,Consumer
+205,Customer 0205,Corporate
+206,Customer 0206,Consumer
+207,Customer 0207,Consumer
+208,Customer 0208,Corporate
+209,Customer 0209,Home Office
+210,Customer 0210,Consumer
+211,Customer 0211,Consumer
+212,Customer 0212,Consumer
+213,Customer 0213,Home Office
+214,Customer 0214,Consumer
+215,Customer 0215,Home Office
+216,Customer 0216,Consumer
+217,Customer 0217,Corporate
+218,Customer 0218,Home Office
+219,Customer 0219,Consumer
+220,Customer 0220,Consumer
+221,Customer 0221,Consumer
+222,Customer 0222,Home Office
+223,Customer 0223,Corporate
+224,Customer 0224,Consumer
+225,Customer 0225,Home Office
+226,Customer 0226,Corporate
+227,Customer 0227,Corporate
+228,Customer 0228,Home Office
+229,Customer 0229,Corporate
+230,Customer 0230,Corporate
+231,Customer 0231,Consumer
+232,Customer 0232,Consumer
+233,Customer 0233,Corporate
+234,Customer 0234,Corporate
+235,Customer 0235,Corporate
+236,Customer 0236,Corporate
+237,Customer 0237,Corporate
+238,Customer 0238,Consumer
+239,Customer 0239,Consumer
+240,Customer 0240,Consumer
+241,Customer 0241,Home Office
+242,Customer 0242,Corporate
+243,Customer 0243,Home Office
+244,Customer 0244,Corporate
+245,Customer 0245,Corporate
+246,Customer 0246,Home Office
+247,Customer 0247,Consumer
+248,Customer 0248,Home Office
+249,Customer 0249,Consumer
+250,Customer 0250,Consumer
+251,Customer 0251,Home Office
+252,Customer 0252,Corporate
+253,Customer 0253,Consumer
+254,Customer 0254,Home Office
+255,Customer 0255,Home Office
+256,Customer 0256,Consumer
+257,Customer 0257,Home Office
+258,Customer 0258,Corporate
+259,Customer 0259,Home Office
+260,Customer 0260,Consumer
+261,Customer 0261,Home Office
+262,Customer 0262,Corporate
+263,Customer 0263,Home Office
+264,Customer 0264,Corporate
+265,Customer 0265,Consumer
+266,Customer 0266,Corporate
+267,Customer 0267,Consumer
+268,Customer 0268,Home Office
+269,Customer 0269,Home Office
+270,Customer 0270,Home Office
+271,Customer 0271,Corporate
+272,Customer 0272,Home Office
+273,Customer 0273,Consumer
+274,Customer 0274,Home Office
+275,Customer 0275,Consumer
+276,Customer 0276,Consumer
+277,Customer 0277,Corporate
+278,Customer 0278,Home Office
+279,Customer 0279,Consumer
+280,Customer 0280,Consumer
+281,Customer 0281,Home Office
+282,Customer 0282,Corporate
+283,Customer 0283,Corporate
+284,Customer 0284,Home Office
+285,Customer 0285,Consumer
+286,Customer 0286,Consumer
+287,Customer 0287,Corporate
+288,Customer 0288,Corporate
+289,Customer 0289,Corporate
+290,Customer 0290,Consumer
+291,Customer 0291,Home Office
+292,Customer 0292,Home Office
+293,Customer 0293,Corporate
+294,Customer 0294,Corporate
+295,Customer 0295,Home Office
+296,Customer 0296,Corporate
+297,Customer 0297,Corporate
+298,Customer 0298,Consumer
+299,Customer 0299,Consumer
+300,Customer 0300,Consumer
+301,Customer 0301,Consumer
+302,Customer 0302,Corporate
+303,Customer 0303,Consumer
+304,Customer 0304,Corporate
+305,Customer 0305,Consumer
+306,Customer 0306,Corporate
+307,Customer 0307,Home Office
+308,Customer 0308,Home Office
+309,Customer 0309,Consumer
+310,Customer 0310,Corporate
+311,Customer 0311,Home Office
+312,Customer 0312,Corporate
+313,Customer 0313,Home Office
+314,Customer 0314,Consumer
+315,Customer 0315,Home Office
+316,Customer 0316,Consumer
+317,Customer 0317,Corporate
+318,Customer 0318,Home Office
+319,Customer 0319,Consumer
+320,Customer 0320,Corporate
+321,Customer 0321,Consumer
+322,Customer 0322,Corporate
+323,Customer 0323,Home Office
+324,Customer 0324,Corporate
+325,Customer 0325,Consumer
+326,Customer 0326,Home Office
+327,Customer 0327,Corporate
+328,Customer 0328,Corporate
+329,Customer 0329,Corporate
+330,Customer 0330,Home Office
+331,Customer 0331,Consumer
+332,Customer 0332,Home Office
+333,Customer 0333,Consumer
+334,Customer 0334,Consumer
+335,Customer 0335,Consumer
+336,Customer 0336,Consumer
+337,Customer 0337,Consumer
+338,Customer 0338,Home Office
+339,Customer 0339,Corporate
+340,Customer 0340,Home Office
+341,Customer 0341,Consumer
+342,Customer 0342,Home Office
+343,Customer 0343,Home Office
+344,Customer 0344,Corporate
+345,Customer 0345,Home Office
+346,Customer 0346,Corporate
+347,Customer 0347,Consumer
+348,Customer 0348,Home Office
+349,Customer 0349,Home Office
+350,Customer 0350,Consumer
+351,Customer 0351,Consumer
+352,Customer 0352,Consumer
+353,Customer 0353,Home Office
+354,Customer 0354,Home Office
+355,Customer 0355,Consumer
+356,Customer 0356,Home Office
+357,Customer 0357,Home Office
+358,Customer 0358,Consumer
+359,Customer 0359,Corporate
+360,Customer 0360,Consumer
+361,Customer 0361,Consumer
+362,Customer 0362,Consumer
+363,Customer 0363,Corporate
+364,Customer 0364,Consumer
+365,Customer 0365,Corporate
+366,Customer 0366,Home Office
+367,Customer 0367,Consumer
+368,Customer 0368,Home Office
+369,Customer 0369,Corporate
+370,Customer 0370,Corporate
+371,Customer 0371,Home Office
+372,Customer 0372,Corporate
+373,Customer 0373,Consumer
+374,Customer 0374,Consumer
+375,Customer 0375,Home Office
+376,Customer 0376,Corporate
+377,Customer 0377,Corporate
+378,Customer 0378,Home Office
+379,Customer 0379,Home Office
+380,Customer 0380,Home Office
+381,Customer 0381,Corporate
+382,Customer 0382,Home Office
+383,Customer 0383,Consumer
+384,Customer 0384,Home Office
+385,Customer 0385,Consumer
+386,Customer 0386,Home Office
+387,Customer 0387,Home Office
+388,Customer 0388,Consumer
+389,Customer 0389,Corporate
+390,Customer 0390,Consumer
+391,Customer 0391,Home Office
+392,Customer 0392,Consumer
+393,Customer 0393,Consumer
+394,Customer 0394,Consumer
+395,Customer 0395,Consumer
+396,Customer 0396,Corporate
+397,Customer 0397,Home Office
+398,Customer 0398,Home Office
+399,Customer 0399,Consumer
+400,Customer 0400,Home Office
+401,Customer 0401,Consumer
+402,Customer 0402,Corporate
+403,Customer 0403,Home Office
+404,Customer 0404,Home Office
+405,Customer 0405,Home Office
+406,Customer 0406,Home Office
+407,Customer 0407,Corporate
+408,Customer 0408,Consumer
+409,Customer 0409,Home Office
+410,Customer 0410,Consumer
+411,Customer 0411,Consumer
+412,Customer 0412,Consumer
+413,Customer 0413,Corporate
+414,Customer 0414,Consumer
+415,Customer 0415,Consumer
+416,Customer 0416,Home Office
+417,Customer 0417,Corporate
+418,Customer 0418,Home Office
+419,Customer 0419,Consumer
+420,Customer 0420,Consumer
+421,Customer 0421,Corporate
+422,Customer 0422,Corporate
+423,Customer 0423,Home Office
+424,Customer 0424,Home Office
+425,Customer 0425,Home Office
+426,Customer 0426,Home Office
+427,Customer 0427,Consumer
+428,Customer 0428,Home Office
+429,Customer 0429,Corporate
+430,Customer 0430,Corporate
+431,Customer 0431,Home Office
+432,Customer 0432,Home Office
+433,Customer 0433,Corporate
+434,Customer 0434,Home Office
+435,Customer 0435,Consumer
+436,Customer 0436,Home Office
+437,Customer 0437,Home Office
+438,Customer 0438,Corporate
+439,Customer 0439,Home Office
+440,Customer 0440,Consumer
+441,Customer 0441,Corporate
+442,Customer 0442,Consumer
+443,Customer 0443,Corporate
+444,Customer 0444,Consumer
+445,Customer 0445,Corporate
+446,Customer 0446,Corporate
+447,Customer 0447,Corporate
+448,Customer 0448,Consumer
+449,Customer 0449,Home Office
+450,Customer 0450,Consumer
+451,Customer 0451,Corporate
+452,Customer 0452,Consumer
+453,Customer 0453,Consumer
+454,Customer 0454,Home Office
+455,Customer 0455,Corporate
+456,Customer 0456,Consumer
+457,Customer 0457,Consumer
+458,Customer 0458,Home Office
+459,Customer 0459,Home Office
+460,Customer 0460,Home Office
+461,Customer 0461,Corporate
+462,Customer 0462,Consumer
+463,Customer 0463,Corporate
+464,Customer 0464,Consumer
+465,Customer 0465,Corporate
+466,Customer 0466,Consumer
+467,Customer 0467,Home Office
+468,Customer 0468,Consumer
+469,Customer 0469,Corporate
+470,Customer 0470,Corporate
+471,Customer 0471,Consumer
+472,Customer 0472,Home Office
+473,Customer 0473,Consumer
+474,Customer 0474,Consumer
+475,Customer 0475,Home Office
+476,Customer 0476,Corporate
+477,Customer 0477,Home Office
+478,Customer 0478,Corporate
+479,Customer 0479,Corporate
+480,Customer 0480,Corporate
+481,Customer 0481,Consumer
+482,Customer 0482,Corporate
+483,Customer 0483,Corporate
+484,Customer 0484,Consumer
+485,Customer 0485,Home Office
+486,Customer 0486,Corporate
+487,Customer 0487,Consumer
+488,Customer 0488,Corporate
+489,Customer 0489,Home Office
+490,Customer 0490,Corporate
+491,Customer 0491,Corporate
+492,Customer 0492,Home Office
+493,Customer 0493,Consumer
+494,Customer 0494,Corporate
+495,Customer 0495,Corporate
+496,Customer 0496,Home Office
+497,Customer 0497,Home Office
+498,Customer 0498,Corporate
+499,Customer 0499,Home Office
+500,Customer 0500,Consumer
+501,Customer 0501,Consumer
+502,Customer 0502,Consumer
+503,Customer 0503,Consumer
+504,Customer 0504,Consumer
+505,Customer 0505,Corporate
+506,Customer 0506,Corporate
+507,Customer 0507,Consumer
+508,Customer 0508,Consumer
+509,Customer 0509,Corporate
+510,Customer 0510,Consumer
+511,Customer 0511,Corporate
+512,Customer 0512,Home Office
+513,Customer 0513,Corporate
+514,Customer 0514,Corporate
+515,Customer 0515,Consumer
+516,Customer 0516,Home Office
+517,Customer 0517,Home Office
+518,Customer 0518,Home Office
+519,Customer 0519,Corporate
+520,Customer 0520,Home Office
+521,Customer 0521,Corporate
+522,Customer 0522,Consumer
+523,Customer 0523,Corporate
+524,Customer 0524,Consumer
+525,Customer 0525,Home Office
+526,Customer 0526,Consumer
+527,Customer 0527,Corporate
+528,Customer 0528,Consumer
+529,Customer 0529,Corporate
+530,Customer 0530,Consumer
+531,Customer 0531,Home Office
+532,Customer 0532,Consumer
+533,Customer 0533,Corporate
+534,Customer 0534,Consumer
+535,Customer 0535,Home Office
+536,Customer 0536,Consumer
+537,Customer 0537,Consumer
+538,Customer 0538,Corporate
+539,Customer 0539,Consumer
+540,Customer 0540,Corporate
+541,Customer 0541,Consumer
+542,Customer 0542,Corporate
+543,Customer 0543,Home Office
+544,Customer 0544,Corporate
+545,Customer 0545,Corporate
+546,Customer 0546,Home Office
+547,Customer 0547,Consumer
+548,Customer 0548,Consumer
+549,Customer 0549,Home Office
+550,Customer 0550,Home Office
+551,Customer 0551,Consumer
+552,Customer 0552,Consumer
+553,Customer 0553,Consumer
+554,Customer 0554,Corporate
+555,Customer 0555,Consumer
+556,Customer 0556,Consumer
+557,Customer 0557,Consumer
+558,Customer 0558,Corporate
+559,Customer 0559,Home Office
+560,Customer 0560,Corporate
+561,Customer 0561,Home Office
+562,Customer 0562,Consumer
+563,Customer 0563,Corporate
+564,Customer 0564,Corporate
+565,Customer 0565,Home Office
+566,Customer 0566,Home Office
+567,Customer 0567,Consumer
+568,Customer 0568,Corporate
+569,Customer 0569,Corporate
+570,Customer 0570,Consumer
+571,Customer 0571,Corporate
+572,Customer 0572,Consumer
+573,Customer 0573,Consumer
+574,Customer 0574,Consumer
+575,Customer 0575,Home Office
+576,Customer 0576,Home Office
+577,Customer 0577,Home Office
+578,Customer 0578,Consumer
+579,Customer 0579,Home Office
+580,Customer 0580,Corporate
+581,Customer 0581,Consumer
+582,Customer 0582,Corporate
+583,Customer 0583,Consumer
+584,Customer 0584,Home Office
+585,Customer 0585,Home Office
+586,Customer 0586,Corporate
+587,Customer 0587,Home Office
+588,Customer 0588,Corporate
+589,Customer 0589,Home Office
+590,Customer 0590,Corporate
+591,Customer 0591,Home Office
+592,Customer 0592,Corporate
+593,Customer 0593,Home Office
+594,Customer 0594,Consumer
+595,Customer 0595,Consumer
+596,Customer 0596,Corporate
+597,Customer 0597,Consumer
+598,Customer 0598,Home Office
+599,Customer 0599,Home Office
+600,Customer 0600,Home Office
+601,Customer 0601,Consumer
+602,Customer 0602,Corporate
+603,Customer 0603,Corporate
+604,Customer 0604,Consumer
+605,Customer 0605,Consumer
+606,Customer 0606,Consumer
+607,Customer 0607,Consumer
+608,Customer 0608,Home Office
+609,Customer 0609,Home Office
+610,Customer 0610,Corporate
+611,Customer 0611,Corporate
+612,Customer 0612,Consumer
+613,Customer 0613,Consumer
+614,Customer 0614,Consumer
+615,Customer 0615,Home Office
+616,Customer 0616,Corporate
+617,Customer 0617,Home Office
+618,Customer 0618,Home Office
+619,Customer 0619,Corporate
+620,Customer 0620,Home Office
+621,Customer 0621,Consumer
+622,Customer 0622,Home Office
+623,Customer 0623,Corporate
+624,Customer 0624,Consumer
+625,Customer 0625,Corporate
+626,Customer 0626,Consumer
+627,Customer 0627,Consumer
+628,Customer 0628,Corporate
+629,Customer 0629,Corporate
+630,Customer 0630,Consumer
+631,Customer 0631,Corporate
+632,Customer 0632,Corporate
+633,Customer 0633,Corporate
+634,Customer 0634,Home Office
+635,Customer 0635,Corporate
+636,Customer 0636,Consumer
+637,Customer 0637,Consumer
+638,Customer 0638,Corporate
+639,Customer 0639,Consumer
+640,Customer 0640,Corporate
+641,Customer 0641,Consumer
+642,Customer 0642,Consumer
+643,Customer 0643,Corporate
+644,Customer 0644,Corporate
+645,Customer 0645,Consumer
+646,Customer 0646,Corporate
+647,Customer 0647,Corporate
+648,Customer 0648,Home Office
+649,Customer 0649,Home Office
+650,Customer 0650,Consumer
+651,Customer 0651,Consumer
+652,Customer 0652,Home Office
+653,Customer 0653,Consumer
+654,Customer 0654,Consumer
+655,Customer 0655,Corporate
+656,Customer 0656,Consumer
+657,Customer 0657,Consumer
+658,Customer 0658,Corporate
+659,Customer 0659,Home Office
+660,Customer 0660,Consumer
+661,Customer 0661,Corporate
+662,Customer 0662,Consumer
+663,Customer 0663,Corporate
+664,Customer 0664,Corporate
+665,Customer 0665,Home Office
+666,Customer 0666,Consumer
+667,Customer 0667,Consumer
+668,Customer 0668,Home Office
+669,Customer 0669,Home Office
+670,Customer 0670,Consumer
+671,Customer 0671,Home Office
+672,Customer 0672,Home Office
+673,Customer 0673,Home Office
+674,Customer 0674,Corporate
+675,Customer 0675,Corporate
+676,Customer 0676,Home Office
+677,Customer 0677,Corporate
+678,Customer 0678,Consumer
+679,Customer 0679,Corporate
+680,Customer 0680,Home Office
+681,Customer 0681,Home Office
+682,Customer 0682,Home Office
+683,Customer 0683,Consumer
+684,Customer 0684,Consumer
+685,Customer 0685,Home Office
+686,Customer 0686,Home Office
+687,Customer 0687,Home Office
+688,Customer 0688,Corporate
+689,Customer 0689,Home Office
+690,Customer 0690,Home Office
+691,Customer 0691,Home Office
+692,Customer 0692,Consumer
+693,Customer 0693,Home Office
+694,Customer 0694,Home Office
+695,Customer 0695,Home Office
+696,Customer 0696,Consumer
+697,Customer 0697,Home Office
+698,Customer 0698,Home Office
+699,Customer 0699,Home Office
+700,Customer 0700,Home Office
+701,Customer 0701,Home Office
+702,Customer 0702,Home Office
+703,Customer 0703,Consumer
+704,Customer 0704,Consumer
+705,Customer 0705,Consumer
+706,Customer 0706,Consumer
+707,Customer 0707,Consumer
+708,Customer 0708,Home Office
+709,Customer 0709,Corporate
+710,Customer 0710,Consumer
+711,Customer 0711,Corporate
+712,Customer 0712,Corporate
+713,Customer 0713,Home Office
+714,Customer 0714,Consumer
+715,Customer 0715,Home Office
+716,Customer 0716,Consumer
+717,Customer 0717,Home Office
+718,Customer 0718,Home Office
+719,Customer 0719,Home Office
+720,Customer 0720,Consumer
+721,Customer 0721,Corporate
+722,Customer 0722,Corporate
+723,Customer 0723,Consumer
+724,Customer 0724,Corporate
+725,Customer 0725,Consumer
+726,Customer 0726,Home Office
+727,Customer 0727,Home Office
+728,Customer 0728,Home Office
+729,Customer 0729,Consumer
+730,Customer 0730,Home Office
+731,Customer 0731,Home Office
+732,Customer 0732,Consumer
+733,Customer 0733,Home Office
+734,Customer 0734,Home Office
+735,Customer 0735,Corporate
+736,Customer 0736,Corporate
+737,Customer 0737,Consumer
+738,Customer 0738,Corporate
+739,Customer 0739,Consumer
+740,Customer 0740,Home Office
+741,Customer 0741,Consumer
+742,Customer 0742,Consumer
+743,Customer 0743,Home Office
+744,Customer 0744,Home Office
+745,Customer 0745,Corporate
+746,Customer 0746,Corporate
+747,Customer 0747,Corporate
+748,Customer 0748,Consumer
+749,Customer 0749,Corporate
+750,Customer 0750,Home Office
+751,Customer 0751,Corporate
+752,Customer 0752,Consumer
+753,Customer 0753,Home Office
+754,Customer 0754,Home Office
+755,Customer 0755,Home Office
+756,Customer 0756,Consumer
+757,Customer 0757,Consumer
+758,Customer 0758,Home Office
+759,Customer 0759,Consumer
+760,Customer 0760,Corporate
+761,Customer 0761,Corporate
+762,Customer 0762,Home Office
+763,Customer 0763,Home Office
+764,Customer 0764,Home Office
+765,Customer 0765,Corporate
+766,Customer 0766,Home Office
+767,Customer 0767,Home Office
+768,Customer 0768,Consumer
+769,Customer 0769,Consumer
+770,Customer 0770,Corporate
+771,Customer 0771,Consumer
+772,Customer 0772,Corporate
+773,Customer 0773,Corporate
+774,Customer 0774,Home Office
+775,Customer 0775,Consumer
+776,Customer 0776,Home Office
+777,Customer 0777,Consumer
+778,Customer 0778,Home Office
+779,Customer 0779,Corporate
+780,Customer 0780,Corporate
+781,Customer 0781,Home Office
+782,Customer 0782,Home Office
+783,Customer 0783,Corporate
+784,Customer 0784,Corporate
+785,Customer 0785,Corporate
+786,Customer 0786,Corporate
+787,Customer 0787,Consumer
+788,Customer 0788,Home Office
+789,Customer 0789,Consumer
+790,Customer 0790,Corporate
+791,Customer 0791,Consumer
+792,Customer 0792,Corporate
+793,Customer 0793,Consumer
+794,Customer 0794,Corporate
+795,Customer 0795,Corporate
+796,Customer 0796,Consumer
+797,Customer 0797,Home Office
+798,Customer 0798,Corporate
+799,Customer 0799,Corporate
+800,Customer 0800,Corporate
+801,Customer 0801,Consumer
+802,Customer 0802,Consumer
+803,Customer 0803,Consumer
+804,Customer 0804,Home Office
+805,Customer 0805,Consumer
+806,Customer 0806,Consumer
+807,Customer 0807,Home Office
+808,Customer 0808,Home Office
+809,Customer 0809,Corporate
+810,Customer 0810,Corporate
+811,Customer 0811,Consumer
+812,Customer 0812,Home Office
+813,Customer 0813,Home Office
+814,Customer 0814,Home Office
+815,Customer 0815,Corporate
+816,Customer 0816,Consumer
+817,Customer 0817,Home Office
+818,Customer 0818,Corporate
+819,Customer 0819,Consumer
+820,Customer 0820,Corporate
+821,Customer 0821,Corporate
+822,Customer 0822,Corporate
+823,Customer 0823,Consumer
+824,Customer 0824,Consumer
+825,Customer 0825,Consumer
+826,Customer 0826,Corporate
+827,Customer 0827,Home Office
+828,Customer 0828,Corporate
+829,Customer 0829,Corporate
+830,Customer 0830,Corporate
+831,Customer 0831,Home Office
+832,Customer 0832,Consumer
+833,Customer 0833,Corporate
+834,Customer 0834,Corporate
+835,Customer 0835,Corporate
+836,Customer 0836,Corporate
+837,Customer 0837,Consumer
+838,Customer 0838,Corporate
+839,Customer 0839,Consumer
+840,Customer 0840,Corporate
+841,Customer 0841,Corporate
+842,Customer 0842,Corporate
+843,Customer 0843,Consumer
+844,Customer 0844,Consumer
+845,Customer 0845,Home Office
+846,Customer 0846,Consumer
+847,Customer 0847,Home Office
+848,Customer 0848,Corporate
+849,Customer 0849,Corporate
+850,Customer 0850,Corporate
+851,Customer 0851,Consumer
+852,Customer 0852,Corporate
+853,Customer 0853,Corporate
+854,Customer 0854,Home Office
+855,Customer 0855,Consumer
+856,Customer 0856,Corporate
+857,Customer 0857,Corporate
+858,Customer 0858,Corporate
+859,Customer 0859,Consumer
+860,Customer 0860,Corporate
+861,Customer 0861,Consumer
+862,Customer 0862,Consumer
+863,Customer 0863,Home Office
+864,Customer 0864,Corporate
+865,Customer 0865,Home Office
+866,Customer 0866,Consumer
+867,Customer 0867,Consumer
+868,Customer 0868,Corporate
+869,Customer 0869,Corporate
+870,Customer 0870,Home Office
+871,Customer 0871,Corporate
+872,Customer 0872,Consumer
+873,Customer 0873,Corporate
+874,Customer 0874,Corporate
+875,Customer 0875,Consumer
+876,Customer 0876,Home Office
+877,Customer 0877,Corporate
+878,Customer 0878,Home Office
+879,Customer 0879,Home Office
+880,Customer 0880,Consumer
+881,Customer 0881,Home Office
+882,Customer 0882,Consumer
+883,Customer 0883,Consumer
+884,Customer 0884,Home Office
+885,Customer 0885,Corporate
+886,Customer 0886,Corporate
+887,Customer 0887,Home Office
+888,Customer 0888,Consumer
+889,Customer 0889,Home Office
+890,Customer 0890,Corporate
+891,Customer 0891,Corporate
+892,Customer 0892,Consumer
+893,Customer 0893,Home Office
+894,Customer 0894,Consumer
+895,Customer 0895,Consumer
+896,Customer 0896,Corporate
+897,Customer 0897,Corporate
+898,Customer 0898,Corporate
+899,Customer 0899,Corporate
+900,Customer 0900,Corporate
+901,Customer 0901,Corporate
+902,Customer 0902,Home Office
+903,Customer 0903,Home Office
+904,Customer 0904,Home Office
+905,Customer 0905,Corporate
+906,Customer 0906,Corporate
+907,Customer 0907,Home Office
+908,Customer 0908,Consumer
+909,Customer 0909,Corporate
+910,Customer 0910,Corporate
+911,Customer 0911,Home Office
+912,Customer 0912,Home Office
+913,Customer 0913,Corporate
+914,Customer 0914,Consumer
+915,Customer 0915,Consumer
+916,Customer 0916,Home Office
+917,Customer 0917,Consumer
+918,Customer 0918,Consumer
+919,Customer 0919,Consumer
+920,Customer 0920,Home Office
+921,Customer 0921,Corporate
+922,Customer 0922,Home Office
+923,Customer 0923,Consumer
+924,Customer 0924,Corporate
+925,Customer 0925,Corporate
+926,Customer 0926,Corporate
+927,Customer 0927,Corporate
+928,Customer 0928,Consumer
+929,Customer 0929,Home Office
+930,Customer 0930,Consumer
+931,Customer 0931,Consumer
+932,Customer 0932,Consumer
+933,Customer 0933,Consumer
+934,Customer 0934,Corporate
+935,Customer 0935,Home Office
+936,Customer 0936,Consumer
+937,Customer 0937,Corporate
+938,Customer 0938,Consumer
+939,Customer 0939,Corporate
+940,Customer 0940,Corporate
+941,Customer 0941,Home Office
+942,Customer 0942,Consumer
+943,Customer 0943,Consumer
+944,Customer 0944,Home Office
+945,Customer 0945,Corporate
+946,Customer 0946,Corporate
+947,Customer 0947,Corporate
+948,Customer 0948,Home Office
+949,Customer 0949,Home Office
+950,Customer 0950,Consumer
+951,Customer 0951,Corporate
+952,Customer 0952,Corporate
+953,Customer 0953,Corporate
+954,Customer 0954,Consumer
+955,Customer 0955,Corporate
+956,Customer 0956,Corporate
+957,Customer 0957,Home Office
+958,Customer 0958,Corporate
+959,Customer 0959,Consumer
+960,Customer 0960,Home Office
+961,Customer 0961,Home Office
+962,Customer 0962,Home Office
+963,Customer 0963,Home Office
+964,Customer 0964,Consumer
+965,Customer 0965,Consumer
+966,Customer 0966,Corporate
+967,Customer 0967,Consumer
+968,Customer 0968,Corporate
+969,Customer 0969,Corporate
+970,Customer 0970,Home Office
+971,Customer 0971,Corporate
+972,Customer 0972,Corporate
+973,Customer 0973,Corporate
+974,Customer 0974,Consumer
+975,Customer 0975,Consumer
+976,Customer 0976,Consumer
+977,Customer 0977,Corporate
+978,Customer 0978,Home Office
+979,Customer 0979,Corporate
+980,Customer 0980,Home Office
+981,Customer 0981,Corporate
+982,Customer 0982,Consumer
+983,Customer 0983,Consumer
+984,Customer 0984,Corporate
+985,Customer 0985,Home Office
+986,Customer 0986,Corporate
+987,Customer 0987,Corporate
+988,Customer 0988,Consumer
+989,Customer 0989,Consumer
+990,Customer 0990,Consumer
+991,Customer 0991,Consumer
+992,Customer 0992,Consumer
+993,Customer 0993,Home Office
+994,Customer 0994,Home Office
+995,Customer 0995,Consumer
+996,Customer 0996,Home Office
+997,Customer 0997,Home Office
+998,Customer 0998,Home Office
+999,Customer 0999,Corporate
+1000,Customer 1000,Consumer

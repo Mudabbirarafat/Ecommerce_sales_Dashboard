@@ -1,0 +1,400 @@
+order_id,return_reason
+100002,Wrong item
+100003,Not needed
+100005,Late delivery
+100014,Other
+100022,Late delivery
+100026,Other
+100033,Not needed
+100042,Damaged
+100043,Late delivery
+100074,Wrong item
+100082,Damaged
+100104,Late delivery
+100118,Other
+100122,Wrong item
+100127,Wrong item
+100131,Wrong item
+100137,Other
+100159,Not needed
+100166,Other
+100181,Wrong item
+100183,Wrong item
+100188,Late delivery
+100205,Other
+100231,Wrong item
+100237,Late delivery
+100267,Not needed
+100290,Damaged
+100299,Damaged
+100312,Other
+100316,Other
+100326,Damaged
+100335,Other
+100338,Wrong item
+100361,Damaged
+100370,Wrong item
+100388,Late delivery
+100390,Other
+100395,Wrong item
+100400,Damaged
+100406,Late delivery
+100416,Damaged
+100424,Other
+100427,Damaged
+100462,Late delivery
+100473,Other
+100484,Late delivery
+100487,Wrong item
+100489,Wrong item
+100496,Damaged
+100498,Wrong item
+100531,Not needed
+100534,Wrong item
+100544,Late delivery
+100551,Wrong item
+100576,Damaged
+100583,Other
+100588,Wrong item
+100593,Other
+100595,Late delivery
+100599,Other
+100600,Damaged
+100645,Not needed
+100656,Other
+100665,Damaged
+100674,Other
+100761,Late delivery
+100774,Not needed
+100807,Damaged
+100812,Damaged
+100846,Late delivery
+100857,Damaged
+100860,Not needed
+100875,Other
+100880,Wrong item
+100886,Not needed
+100898,Damaged
+100913,Other
+100948,Late delivery
+100982,Wrong item
+100983,Late delivery
+100999,Wrong item
+101004,Wrong item
+101018,Wrong item
+101019,Other
+101037,Not needed
+101054,Damaged
+101061,Damaged
+101064,Other
+101066,Other
+101067,Wrong item
+101070,Not needed
+101082,Not needed
+101096,Not needed
+101112,Damaged
+101113,Other
+101114,Late delivery
+101130,Damaged
+101138,Damaged
+101147,Wrong item
+101181,Wrong item
+101183,Late delivery
+101189,Wrong item
+101212,Not needed
+101220,Other
+101243,Not needed
+101271,Wrong item
+101279,Not needed
+101291,Wrong item
+101303,Not needed
+101310,Late delivery
+101319,Other
+101333,Not needed
+101341,Damaged
+101350,Wrong item
+101358,Other
+101373,Not needed
+101374,Not needed
+101376,Not needed
+101386,Other
+101400,Late delivery
+101411,Late delivery
+101412,Not needed
+101433,Damaged
+101485,Late delivery
+101491,Wrong item
+101494,Wrong item
+101532,Late delivery
+101547,Damaged
+101552,Late delivery
+101558,Other
+101582,Wrong item
+101600,Late delivery
+101605,Wrong item
+101629,Not needed
+101631,Wrong item
+101637,Wrong item
+101646,Damaged
+101649,Late delivery
+101662,Late delivery
+101664,Damaged
+101696,Other
+101702,Damaged
+101716,Wrong item
+101720,Damaged
+101722,Other
+101732,Damaged
+101746,Late delivery
+101759,Not needed
+101763,Damaged
+101764,Late delivery
+101767,Late delivery
+101777,Not needed
+101780,Not needed
+101784,Not needed
+101785,Wrong item
+101789,Late delivery
+101795,Damaged
+101811,Other
+101815,Other
+101819,Wrong item
+101848,Not needed
+101872,Late delivery
+101886,Not needed
+101896,Other
+101913,Not needed
+101946,Other
+101948,Late delivery
+101955,Wrong item
+101964,Other
+101979,Damaged
+101984,Other
+102001,Other
+102019,Other
+102033,Wrong item
+102043,Other
+102071,Damaged
+102083,Other
+102087,Other
+102088,Wrong item
+102103,Other
+102110,Other
+102118,Not needed
+102119,Wrong item
+102151,Not needed
+102173,Wrong item
+102174,Not needed
+102178,Other
+102200,Not needed
+102237,Wrong item
+102248,Not needed
+102257,Other
+102267,Other
+102277,Other
+102278,Late delivery
+102293,Wrong item
+102307,Damaged
+102319,Other
+102324,Not needed
+102326,Not needed
+102334,Not needed
+102379,Late delivery
+102387,Not needed
+102394,Late delivery
+102402,Wrong item
+102407,Not needed
+102408,Other
+102410,Other
+102431,Not needed
+102460,Late delivery
+102470,Not needed
+102478,Wrong item
+102498,Damaged
+102514,Damaged
+102516,Damaged
+102532,Wrong item
+102543,Not needed
+102548,Late delivery
+102552,Late delivery
+102601,Wrong item
+102615,Not needed
+102648,Not needed
+102653,Not needed
+102683,Other
+102694,Late delivery
+102705,Wrong item
+102729,Damaged
+102731,Other
+102748,Other
+102769,Not needed
+102813,Other
+102824,Other
+102838,Wrong item
+102866,Damaged
+102869,Not needed
+102871,Wrong item
+102875,Not needed
+102884,Other
+102893,Other
+102899,Wrong item
+102906,Not needed
+102916,Wrong item
+102932,Not needed
+102940,Late delivery
+102952,Damaged
+102956,Wrong item
+102975,Wrong item
+102976,Other
+102977,Damaged
+102994,Late delivery
+103004,Wrong item
+103014,Not needed
+103020,Not needed
+103042,Other
+103067,Damaged
+103068,Wrong item
+103080,Not needed
+103084,Wrong item
+103097,Wrong item
+103101,Late delivery
+103112,Late delivery
+103115,Not needed
+103116,Other
+103118,Damaged
+103123,Not needed
+103126,Other
+103162,Other
+103207,Wrong item
+103228,Wrong item
+103247,Wrong item
+103250,Late delivery
+103308,Damaged
+103326,Not needed
+103334,Late delivery
+103385,Late delivery
+103395,Damaged
+103441,Damaged
+103443,Other
+103449,Late delivery
+103464,Other
+103465,Late delivery
+103477,Other
+103498,Wrong item
+103526,Other
+103531,Wrong item
+103547,Late delivery
+103550,Late delivery
+103558,Late delivery
+103561,Damaged
+103576,Wrong item
+103585,Not needed
+103589,Other
+103594,Wrong item
+103616,Late delivery
+103632,Damaged
+103633,Wrong item
+103641,Damaged
+103646,Other
+103648,Late delivery
+103660,Damaged
+103666,Damaged
+103700,Damaged
+103701,Other
+103704,Damaged
+103707,Damaged
+103712,Not needed
+103720,Late delivery
+103746,Other
+103750,Wrong item
+103764,Other
+103781,Late delivery
+103801,Other
+103802,Wrong item
+103806,Late delivery
+103817,Other
+103834,Not needed
+103851,Damaged
+103887,Late delivery
+103915,Damaged
+103919,Not needed
+103923,Late delivery
+103936,Other
+103940,Not needed
+103965,Damaged
+103979,Not needed
+103984,Damaged
+103988,Not needed
+103991,Late delivery
+103996,Other
+104019,Late delivery
+104028,Not needed
+104037,Damaged
+104057,Other
+104070,Not needed
+104091,Not needed
+104093,Wrong item
+104113,Damaged
+104123,Damaged
+104136,Wrong item
+104149,Wrong item
+104160,Wrong item
+104164,Wrong item
+104172,Not needed
+104182,Damaged
+104192,Other
+104193,Late delivery
+104194,Not needed
+104239,Damaged
+104251,Other
+104260,Wrong item
+104267,Late delivery
+104269,Other
+104325,Wrong item
+104326,Not needed
+104327,Not needed
+104333,Other
+104344,Late delivery
+104348,Other
+104363,Wrong item
+104384,Late delivery
+104396,Wrong item
+104412,Late delivery
+104413,Wrong item
+104414,Damaged
+104417,Other
+104432,Damaged
+104439,Wrong item
+104441,Wrong item
+104457,Other
+104499,Not needed
+104529,Late delivery
+104534,Not needed
+104535,Other
+104544,Not needed
+104554,Late delivery
+104565,Wrong item
+104571,Other
+104597,Other
+104598,Not needed
+104614,Late delivery
+104622,Other
+104632,Damaged
+104649,Other
+104695,Damaged
+104703,Not needed
+104736,Not needed
+104742,Wrong item
+104748,Other
+104760,Damaged
+104767,Other
+104815,Other
+104817,Late delivery
+104820,Wrong item
+104821,Wrong item
+104894,Not needed
+104897,Late delivery
+104901,Damaged
+104906,Damaged
+104931,Damaged
+104934,Damaged

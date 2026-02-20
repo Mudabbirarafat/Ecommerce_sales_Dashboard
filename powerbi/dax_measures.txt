@@ -1,0 +1,29 @@
+-- DAX Measures for Power BI
+
+Total Sales = SUM(order_items[sales])
+
+Total Profit = SUM(order_items[profit])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+
+Total Orders = DISTINCTCOUNT(orders[order_id])
+
+AOV (Avg Order Value) = DIVIDE([Total Sales], [Total Orders], 0)
+
+Total Quantity = SUM(order_items[quantity])
+
+Returned Orders = DISTINCTCOUNT(returns[order_id])
+
+Return Rate % = DIVIDE([Returned Orders], [Total Orders], 0)
+
+Sales YoY % =
+VAR ThisYear = [Total Sales]
+VAR LastYear =
+    CALCULATE([Total Sales], SAMEPERIODLASTYEAR(orders[order_date]))
+RETURN DIVIDE(ThisYear - LastYear, LastYear, 0)
+
+Profit YoY % =
+VAR ThisYear = [Total Profit]
+VAR LastYear =
+    CALCULATE([Total Profit], SAMEPERIODLASTYEAR(orders[order_date]))
+RETURN DIVIDE(ThisYear - LastYear, LastYear, 0)
